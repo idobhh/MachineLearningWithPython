@@ -24,3 +24,6 @@ develop diabetes with 70% or greater accuracy"
  4. More data is better - More Data => Better Results
  5. Think before acting - Understand results before changing data or model
  6. Don't pursue a bad solution - Reevaluate, fix or quit 
+ 
+ 
+ (write in python 3.6)
